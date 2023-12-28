@@ -15,7 +15,7 @@ https://www.elastic.co/guide/en/elasticsearch/reference/current/configuring-stac
 
 ### Accessing Kibana
 ` http://localhost<port> `
-https://www.elastic.co/guide/en/kibana/current/access.html
+- https://www.elastic.co/guide/en/kibana/current/access.html
 
 ### References
 - https://www.elastic.co/guide/en/kibana/current/rpm.html
