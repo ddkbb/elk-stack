@@ -20,8 +20,8 @@ must configure auditbeat.yml to forward files to elasticsearch
 
 enable modules
 list modules <br>
-`filebeat modules list`
-enable modules
+`filebeat modules list` <br>
+enable modules <br>
 `filebeat modules enable <module>` <br>
 - https://www.elastic.co/guide/en/beats/filebeat/current/filebeat-installation-configuration.html
 
