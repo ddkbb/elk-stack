@@ -10,8 +10,8 @@ for linux
 
 In the configuration file, use password: "`${ES_PWD}`"
 
-To test the configuration file
-`cd /usr/share/filebeat/bin`
+To test the configuration file<br>
+`cd /usr/share/filebeat/bin`<br>
 `filebeat test config -e`
 
 ### setup
