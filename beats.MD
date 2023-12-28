@@ -5,9 +5,12 @@ for linux
 
 ### setup
 must configure auditbeat.yml to forward files to elasticsearch
+/etc/filebeat/filebeat.yml
 
 ### References
 - https://www.elastic.co/guide/en/beats/filebeat/8.11/filebeat-installation-configuration.html
+default paths
+- https://www.elastic.co/guide/en/beats/auditbeat/current/directory-layout.html
 
 # metricbeat
 for docker logging
