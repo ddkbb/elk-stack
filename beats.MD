@@ -4,10 +4,8 @@ for linux
 # filebeat
 
 ### creating a keystore
-`filebeat keystore create`
-
-`filebeat keystore add es_pwd`
-
+`filebeat keystore create`<br>
+`filebeat keystore add es_pwd`<br>
 `filebeat keystore list`
 
 ### setup
