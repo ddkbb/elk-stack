@@ -8,7 +8,7 @@ for linux
 filebeat keystore create
 ```
 ```
-filebeat keystore add ES_PWD
+filebeat keystore add es_pwd
 ```
 
 ### setup
