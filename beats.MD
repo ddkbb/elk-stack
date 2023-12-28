@@ -19,6 +19,10 @@ must configure auditbeat.yml to forward files to elasticsearch
 /etc/filebeat/filebeat.yml
 
 enable modules
+list modules
+`filebeat modules list`
+enable modules
+`filebeat modules enable <module> <br>
 - https://www.elastic.co/guide/en/beats/filebeat/current/filebeat-installation-configuration.html
 
 
