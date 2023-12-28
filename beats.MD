@@ -18,6 +18,9 @@ To test the configuration file<br>
 must configure auditbeat.yml to forward files to elasticsearch
 /etc/filebeat/filebeat.yml
 
+enable modules
+- https://www.elastic.co/guide/en/beats/filebeat/current/filebeat-installation-configuration.html
+
 
 
 ### References
