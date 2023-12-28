@@ -2,7 +2,7 @@
 
 ### Configurations
 using ssl, change
-https://www.elastic.co/guide/en/kibana/8.11/production.html#openssl-legacy-provider
+- https://www.elastic.co/guide/en/kibana/8.11/production.html#openssl-legacy-provider
 
 ### Token generation
 ```
