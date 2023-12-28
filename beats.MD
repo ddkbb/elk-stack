@@ -5,12 +5,8 @@ for linux
 
 ### creating a keystore
 `filebeat keystore create`
-```
-filebeat keystore add es_pwd
-```
-```
-filebeat keystore list
-```
+`filebeat keystore add es_pwd`
+`filebeat keystore list`
 
 ### setup
 must configure auditbeat.yml to forward files to elasticsearch
