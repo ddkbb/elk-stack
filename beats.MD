@@ -4,9 +4,7 @@ for linux
 # filebeat
 
 ### creating a keystore
-```
-filebeat keystore create
-```
+`filebeat keystore create`
 ```
 filebeat keystore add es_pwd
 ```
