@@ -8,7 +8,7 @@ for linux
 `filebeat keystore add es_pwd`<br>
 `filebeat keystore list`
 
-In the configuration file, use `output.elasticsearch.password: "${ES_PWD}"`
+In the configuration file, use `output.elasticsearch.password: "${es_pwd}"`
 
 ### setup
 must configure auditbeat.yml to forward files to elasticsearch
