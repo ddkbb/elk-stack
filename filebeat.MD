@@ -5,7 +5,7 @@
 `filebeat keystore add ES_PWD`<br>
 `filebeat keystore list`
 
-In the configuration file, use password: "`${ES_PWD}`"
+In the configuration file `/etc/filebeat/filebeat.yml`, use password: "`${ES_PWD}`"
 
 To test the configuration file<br>
 `cd /usr/share/filebeat/bin`<br>
