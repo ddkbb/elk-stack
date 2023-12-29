@@ -33,9 +33,6 @@ list modules <br>
 `filebeat modules list` <br>
 enable modules <br>
 `filebeat modules enable <module>` <br>
-- https://www.elastic.co/guide/en/beats/filebeat/current/filebeat-installation-configuration.html
-
-
 
 ### References
 - https://www.elastic.co/guide/en/beats/filebeat/8.11/filebeat-installation-configuration.html
