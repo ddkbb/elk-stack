@@ -49,3 +49,4 @@ keystore creation
 
 sending logs to logstash instead of elasticsearch
 - https://www.elastic.co/guide/en/beats/filebeat/current/logstash-output.html
+- https://www.elastic.co/guide/en/logstash/current/advanced-pipeline.html
