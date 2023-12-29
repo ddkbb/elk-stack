@@ -34,6 +34,9 @@ list modules <br>
 enable modules <br>
 `filebeat modules enable <module>` <br>
 
+## setting up filebeat to send logs to logstash
+- https://www.elastic.co/guide/en/logstash/current/advanced-pipeline.html
+
 ## References
 - https://www.elastic.co/guide/en/beats/filebeat/8.11/filebeat-installation-configuration.html
 
