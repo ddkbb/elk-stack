@@ -5,7 +5,10 @@
 `filebeat keystore add ES_PWD`<br>
 `filebeat keystore list`
 
-In the configuration file `/etc/filebeat/filebeat.yml`, use password: "`${ES_PWD}`"
+remove the colons from the sha256 fingerprint of the ca certificate before adding to keystore
+
+
+In the configuration file `/etc/filebeat/filebeat.yml`, use password: "`${ES_PWD}`" and ca_certificate_trust: "`${CA_CERT}`"
 
 To test the configuration file<br>
 `cd /usr/share/filebeat/bin`<br>
