@@ -43,3 +43,6 @@ default paths
 
 keystore creation
  - https://www.elastic.co/guide/en/beats/auditbeat/8.11/keystore.html
+
+sending logs to logstash instead of elasticsearch
+- https://www.elastic.co/guide/en/beats/filebeat/current/logstash-output.html
