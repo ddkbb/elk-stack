@@ -1,6 +1,6 @@
 # filebeat
 
-### creating a keystore
+## creating a keystore
 `filebeat keystore create`<br>
 `filebeat keystore add ES_PWD`<br>
 `filebeat keystore list`
@@ -14,7 +14,7 @@ To test the configuration file<br>
 `cd /usr/share/filebeat/bin`<br>
 `filebeat test config -e`
 
-### setup
+## setup
 must configure filebeat.yml to forward files to elasticsearch
 /etc/filebeat/filebeat.yml
 
@@ -34,7 +34,7 @@ list modules <br>
 enable modules <br>
 `filebeat modules enable <module>` <br>
 
-### References
+## References
 - https://www.elastic.co/guide/en/beats/filebeat/8.11/filebeat-installation-configuration.html
 
 default paths
