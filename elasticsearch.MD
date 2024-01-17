@@ -13,6 +13,13 @@ https://www.redhat.com/en/blog/rhel-security-sha-1-package-signatures-distrusted
 ### Resetting password
 /usr/share/elasticsearch/bin/elasticsearch-reset-password -u <user> -i --url https://localhost:<port>
 
+### turning off logging to set environment variables
+To turn off
+` set +o history `
+
+To turn on
+` set -o history `
+
 ### References
 - https://www.elastic.co/guide/en/elasticsearch/reference/current/rpm.html
 - https://discuss.elastic.co/t/bin-elasticsearch-setup-passwords-no-such-file-or-directory/247725
