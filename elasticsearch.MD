@@ -14,9 +14,11 @@ https://www.redhat.com/en/blog/rhel-security-sha-1-package-signatures-distrusted
 /usr/share/elasticsearch/bin/elasticsearch-reset-password -u <user> -i --url https://localhost:<port>
 
 ### turning off logging to set environment variables
-To turn off
+To turn history off
 ` set +o history `
-<br> declare -x ELASTIC_PASSWORD="<password>"
+<br> Set the environment variable
+`declare -x ELASTIC_PASSWORD="<password>"`
+<br> To turn history back on
 ` set -o history `
 
 ### References
