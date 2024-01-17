@@ -17,7 +17,7 @@ https://www.redhat.com/en/blog/rhel-security-sha-1-package-signatures-distrusted
 To turn off
 ` set +o history `
 <br> Set environment variable here
-To turn on
+<br> To turn on
 ` set -o history `
 
 ### References
