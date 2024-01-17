@@ -16,7 +16,7 @@ https://www.redhat.com/en/blog/rhel-security-sha-1-package-signatures-distrusted
 ### turning off logging to set environment variables
 To turn off
 ` set +o history `
-
+Set environment variable here
 To turn on
 ` set -o history `
 
