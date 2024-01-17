@@ -16,8 +16,7 @@ https://www.redhat.com/en/blog/rhel-security-sha-1-package-signatures-distrusted
 ### turning off logging to set environment variables
 To turn off
 ` set +o history `
-<br> Set environment variable here
-<br> To turn on
+<br> declare -x ELASTIC_PASSWORD="<password>"
 ` set -o history `
 
 ### References
